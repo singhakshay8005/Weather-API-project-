@@ -1,5 +1,5 @@
 # Weather_webApp
-
+## This project aims at understanding the workflow of API.
 ## I used open weather API to fetch data 
 
 ### This  web project done in html,css ,js
