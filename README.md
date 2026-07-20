@@ -6,7 +6,7 @@
 
 #### Web link 
 
- https://sachinprajapati8604.github.io/Weather_webApp/
+ https://singhakshay8005.github.io/Weather-API-project-/
  
  #### netlify link
  
